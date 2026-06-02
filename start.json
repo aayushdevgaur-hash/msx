@@ -1,5 +1,6 @@
-{
-    "name": "Nuvio",
+{    
+    "name": "Start nuvio",
     "version": "1.0.0",
-    "parameter": "menu:https://aayushdevgaur-hash.github.io/msx/menu.json"
+    "parameter": "content:https://aayushdevgaur-hash.github.io/msx/data/content.json",
+    "welcome": "none"
 }
