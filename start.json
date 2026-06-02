@@ -1,5 +1,5 @@
 {
-    "name": "Nuvio Launcher",
+    "name": "Nuvio",
     "version": "1.0.0",
-    "parameter": "menu:{PREFIX}{SERVER}/menu.json"
+    "parameter": "menu:https://aayushdevgaur-hash.github.io/msx/menu.json"
 }
