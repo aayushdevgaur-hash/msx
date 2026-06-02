@@ -6,7 +6,7 @@
             "label": "Launch Nuvio App",
             "execute": true,
             "data": {
-                "action": "link:https://web.nuvioapp.space"
+                "action": "link:https://www.cineby.sc/"
             }
         }
     ]
