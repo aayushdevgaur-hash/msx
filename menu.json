@@ -4,6 +4,7 @@
         {
             "icon": "language",
             "label": "Launch Nuvio App",
+            "execute": true,
             "data": {
                 "action": "link:https://web.nuvioapp.space"
             }
