@@ -1,5 +1,5 @@
 {
-  "name": "Nuvio Web Launcher",
-  "version": "1.0.0",
-  "parameter": "link:https://web.nuvioapp.space"
+    "name": "Nuvio Launcher",
+    "version": "1.0.0",
+    "parameter": "menu:{PREFIX}{SERVER}/menu.json>index:0>execute"
 }
