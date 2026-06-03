@@ -1,6 +1,5 @@
-{    
-    "name": "Start nuvio",
-    "version": "1.0.0",
-    "parameter": "content:https://github.com/aayushdevgaur-hash/msx/blob/main/Data/content.json",
-    "welcome": "none"
+{
+  "name": "Nuvio Launcher",
+  "version": "1.0.0",
+  "parameter": "menu:{PREFIX}{SERVER}/menu.json"
 }
