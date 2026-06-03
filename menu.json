@@ -1,0 +1,12 @@
+{
+  "headline": "Nuvio Portal",
+  "menu": [
+    {
+      "icon": "public",
+      "label": "Launch Nuvio App",
+      "data": {
+        "action": "link:https://web.nuvioapp.space"
+      }
+    }
+  ]
+}
